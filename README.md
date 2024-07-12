@@ -20,3 +20,4 @@
     2. 开始执行datax,INFO - begin exceute ___.json
     3. 正常完成,INFO - ___.json execute finished.log file:___.log
     4. 报错退出,ERROR - ___.json exectue failed,see log: ___.log
+    5. datax执行文件日志记录在配置文件的log_dir中
