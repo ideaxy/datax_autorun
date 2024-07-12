@@ -1,0 +1,2 @@
+# datax_autorun
+mysql使用datax同步数据到mysql,自动收集同步表,生成配置文件和并发执行
