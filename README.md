@@ -1,6 +1,6 @@
 # datax_autorun
 
-#1. 概览
+# 1. 概览
     用户mysql到mysql数据库datax同步.从数据库中读取库和表信息,自动生成datax配置文件,然后并发执行datax.
 
 3. 优点
